@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Paused for security maintenance. Do not use in production.**
+
 # crewai-tool-agentwallet
 
 Non-custodial wallet tools for [CrewAI](https://github.com/joaomdmoura/crewAI) agents.
